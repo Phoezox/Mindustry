@@ -1,0 +1,61 @@
+Créez des chaînes d'approvisionnement élaborées de convoyeurs pour alimenter vos tourelles en munitions, produire des matériaux à utiliser pour la construction et défendre vos structures des vagues d'ennemis. Jouez avec vos amis en multijoueurs, quelque soit leur plateforme, dans des parties en coopération ou affrontez-les dans des matchs JcJ en équipe.
+
+[img]{STEAM_APP_IMAGE}/extras/ezgif-4-0e70c282f775.gif[/img]
+
+[h2]Gameplay[/h2]
+
+[list]
+[*] Créez des foreuses et des convoyeurs pour acheminer les ressources à votre noyau. 
+[*] Utilisez des blocs de transformation pour créer des matériaux avancés.
+[*] Construisez des drones qui exploiteront automatiquement des ressources et qui vous aideront à construire et à protéger votre base.
+[*] Gérez les liquides et combattez les incendies.
+[*] Boostez votre production en alimentant en liquide de refroidissement et en lubrifiant optionnels vos blocs de défense et de production.
+[/list]
+
+[h2]Campagne[/h2]
+
+[list]
+[*] Avancez à travers 12 cartes intégrées rejouables avec des points d'apparition aléatoires
+[*] Collectez et envoyez des ressources
+[*] Recherchez de nouveaux blocs pour progresser dans l'arbre technologique
+[*] Configurez les ressources de départ que vous emmenez avec vous pour chaque zone
+[*] Une grande variété d'objectifs et de buts à accomplir
+[*] Invitez vos amis pour compléter des missions ensemble
+[*] 120+ blocs technologiques à maîtriser
+[*] 19 types différents de drones, de mécas et de vaisseaux
+[*] 50+ succès à compléter
+[/list]
+
+[h2]Gamemodes[/h2]
+
+[list]
+[*] [b]Survie[/b]: Construisez des tourelles pour vous défendre contre des ennemis dans un style tower-defense. Survivez le plus longtemps possible, en récupérant facultativement votre noyau pour utiliser les ressources collectées dans la recherche. Préparez votre base contre les attaques ponctuelles de boss aéroportés.
+[*] [b]Attaque[/b]: Construisez des fabriques d'unités qui détruiront le noyau ennemi, tout en défendant votre base des vagues d'unités ennemies. Créez différents types de d'unités de soutien et d'unités offensives pour vous aider à atteindre vos objectifs.
+[*] [b]JcJ[/b]: Affrontez d'autres joueurs avec un maximum de 4 équipes pour détruire les noyaux de vos adversaires. Créez des unités, ou attaquez les autres bases directement avec vos Mechas.
+[*] [b]Bac à sable[/b]: Jouez avec des ressources infinies et sans aucune menace ennemie. Utilisez des blocs spécifiques au mode bac à sable qui vous fourniront tous les objets et liquides pour tester vos designs, et faites apparaître des ennemis sur demande.
+[/list]
+
+[h2]Parties customisées et multijoueur multiplateforme[/h2]
+
+[list]
+[*] 12 cartes intégrées pour les parties personnalisés, en plus de la campagne
+[*] Jouez en mode coopératif, JcJ ou bac à sable
+[*] Rejoignez un serveur dédié public, ou invitez des amis à votre propre session privée
+[*] Règles personnalisables : Modifiez les coûts de fabrication des blocs, les statistiques de l'ennemi, les ressources de départ, le timing des vagues et encore plus
+[*] Mélanger les modes de jeu : Combinez les modes de jeu JcJ et JcE ensemble
+[/list]
+
+[h2]Éditeur de carte personnalisée[/h2]
+
+[list]
+[*] Peignez le terrain avec une interface d'édition
+[*] Modifiez et prévisualisez les structures en jeu
+[*] Modes d'outils configurables : Modifiez le fonctionnement de chaque outil
+[*] Puissant système de génération de cartes, avec de nombreux types de filtres différents pour la manipulation procédurale du terrain
+[*] Appliquez du bruit, de la distorsion, du lissage, de l'érosion, de la symétrie, de la génération de minerai et du terrain aléatoire à vos cartes
+[*] Randomisez et configurez la génération de minerai, ainsi que l'emplacement des rivières et des ressources
+[*] Configurez la disposition des vagues ennemies
+[*] Partagez les cartes exportées sur le Steam Workshop
+[*] Personnalisez les règles de bases des cartes
+[*] Utilisez plus de 75 blocs environnementaux différents
+[/list]
